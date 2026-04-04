@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+output/
+test_data/
+*.egg-info/
+.env
+.venv/
+test_segment_*.py
+tests/
+catboost_info/
