@@ -1,6 +1,6 @@
 # Universal Data Science Pipeline
 
-An automated end-to-end data science pipeline that works on any tabular dataset.
+An automated a reusable Data Science framework that identifies the best performing model for any tabular dataset by benchmarking 100+ algorithms across 7 categories with zero manual configuration.
 
 ## Features
 - Auto-detects column types, target variable, and problem type
